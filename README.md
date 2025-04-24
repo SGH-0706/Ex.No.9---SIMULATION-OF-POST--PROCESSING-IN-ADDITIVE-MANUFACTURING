@@ -47,8 +47,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![Screenshot 2025-04-24 160624](https://github.com/user-attachments/assets/00977af6-1362-4414-b53e-f63e69833c56)
+
+![Screenshot 2025-04-24 160650](https://github.com/user-attachments/assets/2ee98cd1-1963-47c6-b844-ff90e809983f)
+
+![Screenshot 2025-04-24 160712](https://github.com/user-attachments/assets/76a7ecd5-f5b0-4172-ba68-35cc67001471)
+
+### Name: SRINITHI MUTHUKUMAR
+### Register Number: 212224240161
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
